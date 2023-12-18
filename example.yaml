@@ -1,0 +1,10 @@
+proxy:
+  proxy_host:
+  proxy_port:
+  proxy_user:
+  proxy_pass:
+
+oauth2client_service_account_file: user.json
+google_url: https://docs.google.com/spreadsheets/d/
+month_year: "09.23"
+
